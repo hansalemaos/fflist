@@ -9,6 +9,6 @@ If you want to use it without compiling anything, download the 2 zip files and e
 
 How to compile the source code
 Create an env (I use Anaconda)
-Install the requirements https://github.com/hansalemaos/rc_collage/raw/main/requirements.txt
-Download the source code https://github.com/hansalemaos/rc_collage/raw/main/cv2collage.py
-Compile it using this script https://github.com/hansalemaos/rc_collage/raw/main/cv2collagecm.py
+Install the requirements https://github.com/hansalemaos/fflist/raw/main/requirements.txt
+Download the source code https://github.com/hansalemaos/fflist/raw/main/fflist.pyw
+Compile it using this script https://github.com/hansalemaos/fflist/raw/main/fflistcom.py
