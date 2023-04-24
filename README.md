@@ -1,6 +1,8 @@
 # fflist
 Very fast file lister [Windows context menu] - uses uffs
 
+[![](https://i.ytimg.com/vi/SPcOx8M4Wqo/oar2.jpg)](https://www.youtube.com/shorts/SPcOx8M4Wqo)
+
 https://github.com/githubrobbi/Ultra-Fast-File-Search
 
 ### How to use the precompiled version
